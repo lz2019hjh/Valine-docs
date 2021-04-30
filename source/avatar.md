@@ -32,4 +32,4 @@ new Valine({
 });
 ```
 
-[1]:http://cn.gravatar.com/
+[1]:http://cn.gravatar.org/
